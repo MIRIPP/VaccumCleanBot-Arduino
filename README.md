@@ -19,7 +19,7 @@ Include a detailed wiring diagram showing how to connect the hardware components
 
 ## Hardware List
 
--Arduino Board (e.g. Arduino Uno, Arduino Mega, etc.)
--List of other required hardware components (e.g. sensors, motors, etc.)
+- Arduino Board (e.g. Arduino Uno, Arduino Mega, etc.)
+- List of other required hardware components (e.g. sensors, motors, etc.)
 
 Feel free to add any additional information, instructions, or acknowledgements as necessary. Good luck with your project!
