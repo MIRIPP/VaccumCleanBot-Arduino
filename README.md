@@ -5,11 +5,14 @@ In manual mode, the user can control the robot's movement and direction using th
 
 In autonomous mode, the robot will navigate around the room by driving straight until it detects an obstacle. When it detects an obstacle, the robot will stop, then he will move in a random direction until it encounters another obstacle and repeats the process.
 
-## Installation
+## Getting Started
 
-Wire the components like shown in the Wiring Diagram
-Download the "" files from GitHub repository.
-Upload the code to your Arduino board
+- Wire the components like shown in the Wiring Diagram
+- Upload the code to your Arduino board
+
+For manual driving:
+- Install the "Bluetooth RC Controller" App on your Phone
+- Connect your Phone via Bluetooth to the HC05 Moduel
 
 
 ## Wiring Diagram
