@@ -1,16 +1,15 @@
 # ArduinoVaccumCleanBot
-Project Description
+This project involves building a vacuum cleaner robot that can be controlled manually via an Android app connected via Bluetooth or can operate autonomously. The robot will be equipped with obstacle detection sensors.
+
+In manual mode, the user can control the robot's movement and direction using the Android app, which sends signals to the Arduino board to control the motors. The app will include various functions such as forward, backward, left turn, right turn, and stop.
+
+In autonomous mode, the robot will navigate around the room by driving straight until it detects an obstacle. When it detects an obstacle, the robot will stop, then he will move in a random direction until it encounters another obstacle and repeats the process.
 
 ## Installation
 
-Download and install the latest version of Arduino IDE here.
-Connect your Arduino board to your computer via USB.
-Open the Arduino IDE and navigate to File > Examples > Basics > Blink.
-Upload the Blink example code to your Arduino board to verify that it is properly connected and functioning.
-Download and extract the project files from GitHub repository.
-Open the YOUR_PROJECT_NAME.ino file in the Arduino IDE.
-Connect the required hardware components according to the wiring diagram (see below).
-Upload the code to your Arduino board and run the project.
+Wire the components like shown in the Wiring Diagram
+Download the "" files from GitHub repository.
+Upload the code to your Arduino board
 
 
 ## Wiring Diagram
