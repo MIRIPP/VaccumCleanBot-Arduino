@@ -14,8 +14,7 @@ In autonomous mode, the robot will navigate around the room by driving straight 
 
 
 ## Wiring Diagram
-
-https://github.com/MIRIPP/ArduinoVaccumCleanBot/blob/main/doc/schaltplan%20bluetooth.png?raw=true
+<img src=""/>https://github.com/MIRIPP/ArduinoVaccumCleanBot/blob/main/doc/schaltplan%20bluetooth.png?raw=true"/>
 
 ## Hardware List
 
