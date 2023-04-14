@@ -5,6 +5,25 @@ In manual mode, the user can control the robot's movement and direction using th
 
 In autonomous mode, the robot will navigate around the room by driving straight until it detects an obstacle. When it detects an obstacle, the robot will stop, then he will move in a random direction until it encounters another obstacle and repeats the process.
 
+
+## Hardware List
+
+- Arduino Board (e.g. Arduino Uno, Arduino Mega, etc.)
+- SBC-MotoDriver2 (L298N)
+- HC-06 Wireless Bluetooth Arduino-Modul
+- Tank Chassis Crawler 12V Mit Code-Radmotor
+- obstacal sensor (simple push button)
+
+
+## Wiring Diagram
+Bluetooth Connection
+<img src="https://github.com/MIRIPP/ArduinoVaccumCleanBot/blob/main/doc/schaltplan%20bluetooth.png?raw=true"/>
+
+motor driver
+<img src="https://github.com/MIRIPP/ArduinoVaccumCleanBot/blob/main/doc/schaltplan%20motortreiber.PNG?raw=true"/>
+
+obstacal sensor
+
 ## Getting Started
 
 - Wire the components like shown in the Wiring Diagram
@@ -12,15 +31,5 @@ In autonomous mode, the robot will navigate around the room by driving straight 
 - Install the "Bluetooth RC Controller" App on your Phone (only for manual driving)
 - Connect your Phone via Bluetooth to the HC05 Moduel  (only for manual driving)
 
-
-## Wiring Diagram
-<img src="https://github.com/MIRIPP/ArduinoVaccumCleanBot/blob/main/doc/schaltplan%20bluetooth.png?raw=true"/>
-
-<img src="https://github.com/MIRIPP/ArduinoVaccumCleanBot/blob/main/doc/schaltplan%20motortreiber.PNG?raw=true"/>
-
-## Hardware List
-
-- Arduino Board (e.g. Arduino Uno, Arduino Mega, etc.)
-- List of other required hardware components (e.g. sensors, motors, etc.)
 
 Feel free to add any additional information, instructions, or acknowledgements as necessary. Good luck with your project!
