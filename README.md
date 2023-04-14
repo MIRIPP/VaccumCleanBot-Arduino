@@ -23,7 +23,8 @@ In autonomous mode, the robot will navigate around the room by driving straight 
 <img src="https://github.com/MIRIPP/ArduinoVaccumCleanBot/blob/main/doc/schaltplan%20motortreiber.PNG?raw=true"/>
 
 ### Obstacal sensor
-<img src="https://github.com/MIRIPP/ArduinoVaccumCleanBot/blob/main/doc/wiring%20diagramm%20obstacel%20sensor.JPG?raw=true"/>
+<img src="https://github.com/MIRIPP/ArduinoVaccumCleanBot/blob/main/doc/wiring%20diagramm%20obstacel%20sensor.png?raw=true"/>
+
 
 ## Getting Started
 
