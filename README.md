@@ -11,9 +11,14 @@ In autonomous mode, the robot will navigate around the room by driving straight 
 - Arduino Board (e.g. Arduino Uno, Arduino Mega, etc.)
 - SBC-MotoDriver2 (L298N)
 - HC-06 Wireless Bluetooth Arduino-Modul
-- Tank Chassis Crawler 12V Mit Code-Radmotor
-- obstacal sensor (simple push button)
+- Tank Chassis Crawler 12V with code-wheel-motor
+- simple push button ( obstacal sensor )
 
+- Battery vacuum cleaner
+- 12 V battery (for Tank Chassis Crawler)
+
+
+## Chassis
 
 ## Wiring Diagram
 ### Bluetooth Connection
@@ -28,10 +33,13 @@ In autonomous mode, the robot will navigate around the room by driving straight 
 
 ## Getting Started
 
+- Mount the vacuum cleaner on the tank chassies
 - Wire the components like shown in the Wiring Diagram
 - Upload the code to your Arduino board
 - Install the "Bluetooth RC Controller" App on your Phone (only for manual driving)
 - Connect your Phone via Bluetooth to the HC05 Moduel  (only for manual driving)
+
+## Demo 
 
 
 Feel free to add any additional information, instructions, or acknowledgements as necessary. Good luck with your project!
