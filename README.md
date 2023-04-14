@@ -9,10 +9,8 @@ In autonomous mode, the robot will navigate around the room by driving straight 
 
 - Wire the components like shown in the Wiring Diagram
 - Upload the code to your Arduino board
-
-For manual driving:
-- Install the "Bluetooth RC Controller" App on your Phone
-- Connect your Phone via Bluetooth to the HC05 Moduel
+- Install the "Bluetooth RC Controller" App on your Phone (only for manual driving)
+- Connect your Phone via Bluetooth to the HC05 Moduel  (only for manual driving)
 
 
 ## Wiring Diagram
