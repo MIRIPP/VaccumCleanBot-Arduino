@@ -16,13 +16,14 @@ In autonomous mode, the robot will navigate around the room by driving straight 
 
 
 ## Wiring Diagram
-Bluetooth Connection
+### Bluetooth Connection
 <img src="https://github.com/MIRIPP/ArduinoVaccumCleanBot/blob/main/doc/schaltplan%20bluetooth.png?raw=true"/>
 
-motor driver
+### Motor driver
 <img src="https://github.com/MIRIPP/ArduinoVaccumCleanBot/blob/main/doc/schaltplan%20motortreiber.PNG?raw=true"/>
 
-obstacal sensor
+### Obstacal sensor
+<img src="https://github.com/MIRIPP/ArduinoVaccumCleanBot/blob/main/doc/wiring%20diagramm%20obstacel%20sensor.JPG?raw=true"/>
 
 ## Getting Started
 
