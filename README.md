@@ -1,4 +1,4 @@
-# ArduinoVaccumCleanBot
+# VaccumCleanBot-Arduino
 This project involves building a vacuum cleaner robot that can be controlled manually via an Android app connected via Bluetooth or can operate autonomously. The robot will be equipped with obstacle detection sensors.
 
 In manual mode, the user can control the robot's movement and direction using the Android app, which sends signals to the Arduino board to control the motors. The app will include various functions such as forward, backward, left turn, right turn, and stop.
